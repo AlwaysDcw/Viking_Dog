@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlwaysDcw
+- 👋 Hi, I’m @VikingDog
 - 👀 I’m interested in graphic design
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on ...
